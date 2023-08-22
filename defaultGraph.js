@@ -1253,4 +1253,3 @@ export const defaultGraph = {
   "extra": {},
   "version": 0.4
 }
-}
